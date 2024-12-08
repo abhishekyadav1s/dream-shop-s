@@ -55,32 +55,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DreamShopsApplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.testAdd.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.java in dream-shops.executor&quot;: &quot;Coverage&quot;,
-    &quot;Maven.dream-shops [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.dream-shops [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.dream-shops [install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;D:/Java Project/dream-shops/src/main/java/com/dailycodework/dreamshops&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java Project/dream-shops&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DreamShopsApplication.executor": "Run",
+    "JUnit.UserServiceTest.testAdd.executor": "Run",
+    "JUnit.java in dream-shops.executor": "Coverage",
+    "Maven.dream-shops [clean,install].executor": "Run",
+    "Maven.dream-shops [clean].executor": "Run",
+    "Maven.dream-shops [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/Java Project/dream-shops/src/main/java/com/dailycodework/dreamshops",
+    "last_opened_file_path": "D:/Java Project/dream-shops",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dailycodework.dreamshops.repository" />
