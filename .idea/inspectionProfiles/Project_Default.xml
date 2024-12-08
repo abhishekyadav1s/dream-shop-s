@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="dream-shops" />
+          <option value="dream-shops" />
+          <option value="dream-shops" />
+          <option value="dream-shops" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.springframework:spring-context:6.1.12" />
+          <option value="org.xmlunit:xmlunit-core:2.9.1" />
+          <option value="org.apache.tomcat.embed:tomcat-embed-core:10.1.28" />
+          <option value="org.springframework:spring-webmvc:6.1.12" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
